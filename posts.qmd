@@ -1,0 +1,13 @@
+---
+title: "Blog"
+listing:
+  contents: posts/**/*.qmd
+  fields: [image, title, reading-time, categories, description, date, file-modified]
+  type: grid
+  sort: "date desc"
+  categories: true
+  sort-ui: true
+  filter-ui: true
+---
+
+This is my personal blog where I showcase some of my professional work and learning. Any opinions expressed are mine alone.

@@ -1,0 +1,13 @@
+---
+title: "Blog Post Test"
+description: "A quick test to see if I'm using Quarto correctly."
+author:
+  - name: Jarden
+    url: https://www.jarden.me
+date: 2024-08-05
+categories: [test, stuff]
+engine: knitr
+draft: false
+---
+
+This is a quick test to see if I'm doing this correctly. If you're reading this, it worked!

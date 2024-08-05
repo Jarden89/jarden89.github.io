@@ -1,16 +1,30 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Blog",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "This is my personal blog where I showcase some of my professional work and learning. Any opinions expressed are mine alone.\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Modified - Oldest\n        \n         \n          Modified - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\nBlog Post Test\n\n\n1 min\n\n\n\ntest\n\n\nstuff\n\n\n\nA quick test to see if I’m using Quarto correctly.\n\n\n\nAug 5, 2024\n\n\n\n\n\n8/5/24, 5:09:17 PM\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Hi, this site is currently under construction. Please bear with me whilst I learn how to publish a website with Quarto.\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "posts/test/post.html",
+    "href": "posts/test/post.html",
+    "title": "Blog Post Test",
+    "section": "",
+    "text": "This is a quick test to see if I’m doing this correctly. If you’re reading this, it worked!"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   }
 ]
